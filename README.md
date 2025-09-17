@@ -26,7 +26,7 @@ This project focuses on analyzing pharmacy-related data such as medicines, custo
 
 # 📊 **Statistical Information**
 
-> Total Records
+#  Total Records
 
  * Number of customers: e.g., 1,200
 
@@ -34,7 +34,7 @@ This project focuses on analyzing pharmacy-related data such as medicines, custo
 
  * Number of transactions: e.g., 5,000
 
-> Descriptive Statistics (Sales Amount)
+# Descriptive Statistics (Sales Amount)
 
  * Mean (average sale): ₹450
 
@@ -46,7 +46,7 @@ This project focuses on analyzing pharmacy-related data such as medicines, custo
 
  * Standard Deviation: ₹310
 
-> Customer Insights
+# Customer Insights
 
  * Average customer age: 34 years
 
@@ -54,7 +54,7 @@ This project focuses on analyzing pharmacy-related data such as medicines, custo
 
 * Most frequent buyers: Age group 25–40
 
-> Medicine Insights
+#  Medicine Insights
 
  * Top-selling category: Antibiotics (30% of total sales)
 
@@ -62,7 +62,7 @@ This project focuses on analyzing pharmacy-related data such as medicines, custo
 
  * Average stock turnover: 15 days
 
-> Trend Highlights
+# Trend Highlights
 
  * Highest sales in: December (festival & winter season)
 
